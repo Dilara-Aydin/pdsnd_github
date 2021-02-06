@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+6/02/2021
 
 ### Project Title
-Replace the Project Title
+Post your work on GitHub.
 
 ### Description
-Describe what your project is about and what it does
+Utilise git to post Udacity project (Project 2: Using python to look at Bikeshare data) on GitHub.
 
 ### Files used
-Include the files used
+new_york_city.csv
+chicago.csv
+washington.csv
+bikeshare_2.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+The repository was forked from:
+https://github.com/udacity/pdsnd_github
