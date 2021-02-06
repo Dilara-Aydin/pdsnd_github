@@ -1,8 +1,8 @@
 ### Date created
-6/02/2021
+This was created on 6/02/2021
 
 ### Project Title
-Post your work on GitHub.
+Project 3 - Post your Work on GitHub.
 
 ### Description
 Utilise git to post Udacity project (Project 2: Using python to look at Bikeshare data) on GitHub.
@@ -16,3 +16,5 @@ bikeshare_2.py
 ### Credits
 The repository was forked from:
 https://github.com/udacity/pdsnd_github
+
+Thanking Udacity for this unique project!
